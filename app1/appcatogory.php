@@ -84,6 +84,7 @@ $id = $_SESSION['u']['ID'];
 <body>
   <?php include 'header.php'; ?>
   <div class="container">
+    <h2>dulinahejitha</h2>
     <h1>Apps</h1>
     <div class="card-container">
       <?php
