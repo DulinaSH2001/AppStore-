@@ -1,0 +1,9 @@
+<?php 
+
+
+
+$query1 = "SELECT * FROM `appstatus` WHERE headadmin = 'OK' AND( (Payment='No' OR Security='OK') OR (Payment='OK' OR Security='ON') OR (Payment='No' OR Security='NO') )";
+                            $rs1 = mysqli_query($connect, $query1);
+
+
+                            ?>
