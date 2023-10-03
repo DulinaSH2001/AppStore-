@@ -45,7 +45,6 @@ $id = $_SESSION['u']['ID'];
       box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2)
     }
 
-    .card :hover {}
 
     .card img {
       width: 122px;
